@@ -1,0 +1,2 @@
+From golang:onbuild
+Expose 8000
